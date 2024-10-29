@@ -14,9 +14,9 @@
         "ApplicableVersion": "any",
         "DalamudApiLevel": 10,
         "TestingDalamudApiLevel": 10,
-        "DownloadLinkInstall": "https://github.com/Atomoxide/DalamudPluginRepo/blob/main/TestPlugin/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Atomoxide/DalamudPluginRepo/blob/main/TestPlugin/latest.zip",
-        "DownloadLinkTesting": "https://github.com/Atomoxide/DalamudPluginRepo/blob/main/TestPlugin/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/Atomoxide/DalamudPluginRepo/main/TestPlugin/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/Atomoxide/DalamudPluginRepo/main/TestPlugin/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/Atomoxide/DalamudPluginRepo/main/TestPlugin/latest.zip",
         "SupportsProfiles": true,
         "IconUrl": ""
     }
