@@ -1,0 +1,20 @@
+{
+  "Author": "Lorem Ipsum-dolor",
+  "Name": "Hitbox Extend",
+  "InternalName": "TestPlugin",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Extend the target hitbox by 3 meters (farthest allowed before your attack actions get invalidated by the server)",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "cheat",
+    "plugin",
+    "combat"
+  ],
+  "DalamudApiLevel": 10,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Extend the target hitbox such that melee classes can have better uptime",
+  "AcceptsFeedback": true
+}

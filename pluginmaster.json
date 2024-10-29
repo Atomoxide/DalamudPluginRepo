@@ -1,0 +1,25 @@
+[
+    {
+        "Author": "Lorem Ipsum-dolor",
+        "Name": "Entend Hitbox",
+        "Punchline": "Extend the target hitbox such that melee classes can have better uptime",
+        "Description": "Extend the target hitbox by 3 meters (farthest allowed before your attack actions get invalidated by the server)",
+        "Changelog": "- Initial Release",
+        "IsHide": false,
+        "InternalName": "TestPlugin",
+        "AssemblyVersion": "0.0.0.1",
+        "TestingAssemblyVersion": "0.0.0.1",
+        "IsTestingExclusive": false,
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 10,
+        "TestingDalamudApiLevel": 10,
+        "DownloadCount": 1458,
+        "LastUpdate": 1727040959,
+        "DownloadLinkInstall": "https://github.com/NightmareXIV/Battlevest/releases/download/1.0.1.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/NightmareXIV/Battlevest/releases/download/1.0.1.2/latest.zip",
+        "DownloadLinkTesting": "https://github.com/NightmareXIV/Battlevest/releases/download/1.0.0.9/latest.zip",
+        "SupportsProfiles": true,
+        "IconUrl": ""
+    }
+]
