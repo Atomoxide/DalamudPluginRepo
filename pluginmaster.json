@@ -21,5 +21,28 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/Atomoxide/DalamudPluginRepo/main/TestPlugin/latest.zip",
         "SupportsProfiles": true,
         "IconUrl": "https://raw.githubusercontent.com/Atomoxide/DalamudPluginRepo/main/Icons/BiggerHitbox.PNG"
+    },
+	{
+        "Author": "Atomoxide",
+        "Name": "Don't Look Back",
+        "Punchline": "Don't let gaze attack kill you again",
+        "Description": "Turn and face to the camera direction immediate after any actions.",
+        "Changelog": "- Initial Release",
+        "IsHide": false,
+        "InternalName": "DontLookBack",
+        "AssemblyVersion": "0.0.0.1",
+        "TestingAssemblyVersion": "0.0.0.1",
+        "IsTestingExclusive": false,
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 10,
+        "TestingDalamudApiLevel": 10,
+		"DownloadCount": 0,
+		"LastUpdate": 1731213373,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/Atomoxide/DalamudPluginRepo/main/DontLookBack/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/Atomoxide/DalamudPluginRepo/main/DontLookBack/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/Atomoxide/DalamudPluginRepo/main/DontLookBack/latest.zip",
+        "SupportsProfiles": true,
+        "IconUrl": "https://raw.githubusercontent.com/Atomoxide/DalamudPluginRepo/main/Icons/DontLookBack.PNG"
     }
 ]
