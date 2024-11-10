@@ -3,7 +3,7 @@
   "Name": "Don't Look Back",
   "InternalName": "DontLookBack",
   "AssemblyVersion": "0.0.0.1",
-  "Description": "Turn and face to the camera direction immediate after any actions.",
+  "Description": "Turn and face to the camera direction immediately after any actions.",
   "ApplicableVersion": "any",
   "Tags": [
     "battle",
