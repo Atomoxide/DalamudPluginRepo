@@ -16,11 +16,11 @@
         "TestingDalamudApiLevel": 10,
 		"DownloadCount": 0,
 		"LastUpdate": 1731087986,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/Atomoxide/DalamudPluginRepo/main/TestPlugin/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/Atomoxide/DalamudPluginRepo/main/TestPlugin/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/Atomoxide/DalamudPluginRepo/main/TestPlugin/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/Atomoxide/DalamudPluginRepo/CNServer/TestPlugin/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/Atomoxide/DalamudPluginRepo/CNServer/TestPlugin/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/Atomoxide/DalamudPluginRepo/CNServer/TestPlugin/latest.zip",
         "SupportsProfiles": true,
-        "IconUrl": "https://raw.githubusercontent.com/Atomoxide/DalamudPluginRepo/main/Icons/BiggerHitbox.PNG"
+        "IconUrl": "https://raw.githubusercontent.com/Atomoxide/DalamudPluginRepo/CNServer/Icons/BiggerHitbox.PNG"
     },
 	{
         "Author": "Atomoxide",
