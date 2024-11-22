@@ -2,14 +2,14 @@
   "Author": "Atomoxide",
   "Name": "Don't Look Back",
   "InternalName": "DontLookBack",
-  "AssemblyVersion": "0.0.0.1",
+  "AssemblyVersion": "1.1.0.0",
   "Description": "Turn and face to the camera direction immediately after any actions.",
   "ApplicableVersion": "any",
   "Tags": [
     "battle",
     "plugin"
   ],
-  "DalamudApiLevel": 10,
+  "DalamudApiLevel": 11,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
