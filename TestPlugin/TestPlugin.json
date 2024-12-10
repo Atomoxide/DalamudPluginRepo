@@ -2,7 +2,7 @@
   "Author": "Atomoxide",
   "Name": "Hitbox Extend",
   "InternalName": "TestPlugin",
-  "AssemblyVersion": "0.0.0.2",
+  "AssemblyVersion": "1.0.0.1",
   "Description": "Extend the target hitbox by 3 yards (farthest allowed before your attack actions get invalidated by the server)",
   "ApplicableVersion": "any",
   "Tags": [
@@ -10,7 +10,7 @@
     "plugin",
     "combat"
   ],
-  "DalamudApiLevel": 10,
+  "DalamudApiLevel": 11,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
