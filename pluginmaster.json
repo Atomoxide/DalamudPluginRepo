@@ -15,7 +15,7 @@
         "DalamudApiLevel": 10,
         "TestingDalamudApiLevel": 10,
 		"DownloadCount": 0,
-		"LastUpdate": 1733848961
+		"LastUpdate": 1733848961,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/Atomoxide/DalamudPluginRepo/CNServer/TestPlugin/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/Atomoxide/DalamudPluginRepo/CNServer/TestPlugin/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/Atomoxide/DalamudPluginRepo/CNServer/TestPlugin/latest.zip",
