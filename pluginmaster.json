@@ -38,10 +38,10 @@
         "DalamudApiLevel": 10,
         "TestingDalamudApiLevel": 10,
 		"DownloadCount": 0,
-		"LastUpdate": 1731219062,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/Atomoxide/DalamudPluginRepo/main/DontLookBack/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/Atomoxide/DalamudPluginRepo/main/DontLookBack/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/Atomoxide/DalamudPluginRepo/main/DontLookBack/latest.zip",
+		"LastUpdate": 1734067079,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/Atomoxide/DalamudPluginRepo/CNServer/DontLookBack/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/Atomoxide/DalamudPluginRepo/CNServer/DontLookBack/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/Atomoxide/DalamudPluginRepo/CNServer/DontLookBack/latest.zip",
         "SupportsProfiles": true,
         "IconUrl": "https://raw.githubusercontent.com/Atomoxide/DalamudPluginRepo/main/Icons/DontLookBack.PNG"
     }
