@@ -2,7 +2,7 @@
   "Author": "Atomoxide",
   "Name": "Don't Look Back",
   "InternalName": "DontLookBack",
-  "AssemblyVersion": "1.1.0.0",
+  "AssemblyVersion": "1.1.0.1",
   "Description": "Turn and face to the camera direction immediately after any actions.",
   "ApplicableVersion": "any",
   "Tags": [
